@@ -6,5 +6,5 @@ Portfólio: [github.com/LeoGibertoni](https://github.com/LeoGibertoni)
 
 ## Projetos
 
-<a href="https://leogibertoni.github.io/primeiro-projeto/index"><img src="assets/projeto1.png" width="49%" alt="RoadMap HTML"></a>
-<a href="https://leogibertoni.github.io/segundo_projeto/index.html"><img src="assets/projeto2.png" width="49%" alt="RoadMap JS"></a>
+<a href="https://leogibertoni.github.io/primeiro-projeto/index"><img src="assets/projeto1.jpg" width="49%" alt="RoadMap HTML"></a>
+<a href="https://leogibertoni.github.io/segundo_projeto/index.html"><img src="assets/projeto2.jpg" width="49%" alt="RoadMap JS"></a>
