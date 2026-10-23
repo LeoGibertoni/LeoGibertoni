@@ -2,15 +2,15 @@
 
 Desenvolvedor Full Stack, construo sites e aplicações web utilizando **Angular, C# e SQL**. Gosto de vibe coding, explorando novas ideias e usando IA para transformar conceitos em projetos funcionais. Atualmente, curso Análise e Desenvolvimento de Sistemas (ADS) na **Fatec Taquaritinga**, sempre buscando aprender novas tecnologias e evoluir como desenvolvedor.
 
-## Currently
+## Atualmente
 
-- Estudando POO em C#
-- Evoluindo os projetos do RoadMap, de HTML e CSS até JavaScript
+- Estudando na faculdade de Análise e Desenvolvimento de Sistemas (ADS)
+- Aprendendo vibecoding
 
 ## Projetos
 
-<a href="https://leogibertoni.github.io/primeiro-projeto/index"><img src="assets/cards/projeto1.jpg" width="49%" alt="RoadMap HTML: primeiro projeto do RoadMap, feito com HTML5 e CSS."></a>
-<a href="https://leogibertoni.github.io/segundo_projeto/index.html"><img src="assets/cards/projeto2.jpg" width="49%" alt="RoadMap JS: segundo projeto do RoadMap, agora com JavaScript."></a>
+<a href="https://leogibertoni.github.io/primeiro-projeto/index"><img src="assets/cards/projeto1.png" width="49%" alt="RoadMap HTML: primeiro projeto do RoadMap, feito com HTML5 e CSS."></a>
+<a href="https://leogibertoni.github.io/segundo_projeto/index.html"><img src="assets/cards/projeto2.png" width="49%" alt="RoadMap JS: segundo projeto do RoadMap, agora com JavaScript."></a>
 
 ## Stack
 
