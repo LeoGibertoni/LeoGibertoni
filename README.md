@@ -4,6 +4,7 @@ Desenvolvedor Full Stack, construo sites e aplicações web utilizando Angular, 
 
 Portfólio: [github.com/LeoGibertoni](https://github.com/LeoGibertoni)
 
-## Currently
+## Projetos
 
-- [Projeto 1](https://leogibertoni.github.io/primeiro-projeto/): Primeiro projeto feito por mim com base no RoadMap
+- [Projeto 1](https://leogibertoni.github.io/primeiro-projeto/): Primeiro projeto feito por mim com base no RoadMap só utiliando HTML
+- [Projeto 2](https://leogibertoni.github.io/segundo_projeto/index.html): Segundo projeto feito por mim com base no RoadMap agora utilizando javascript com HTML
