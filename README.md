@@ -11,8 +11,8 @@ Desenvolvedor Full Stack, construo sites e aplicações web utilizando **Angular
 
 <a href="https://leogibertoni.github.io/primeiro-projeto/index"><img src="assets/cards/projeto1.svg" width="49%" alt="RoadMap HTML: primeiro projeto do RoadMap, feito com HTML5 e CSS."></a>
 <a href="https://leogibertoni.github.io/segundo_projeto/index.html"><img src="assets/cards/projeto2.svg" width="49%" alt="RoadMap JS: segundo projeto do RoadMap, agora com JavaScript."></a>
-<a href="https://leogibertoni.github.io/NOME-DO-REPO-HARDWARE/index.html"><img src="assets/cards/projeto3.svg" width="49%" alt="Loja de Hardware: vitrine de produtos de informática, feita com HTML."></a>
-<a href="https://leogibertoni.github.io/NOME-DO-REPO-SCHOOLMANAGER/index.html"><img src="assets/cards/projeto4.svg" width="49%" alt="SchoolManager: sistema escolar com acesso por perfil, feito com HTML."></a>
+<a href="https://leogibertoni.github.io/Projeto-IHC/"><img src="assets/cards/projeto3.svg" width="49%" alt="Loja de Hardware: vitrine de produtos de informática, feita com HTML."></a>
+<a href="https://leogibertoni.github.io/GestaoDeEscolas/index.html"><img src="assets/cards/projeto4.svg" width="49%" alt="SchoolManager: sistema escolar com acesso por perfil, feito com HTML."></a>
 
 ## Stack
 
