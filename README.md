@@ -9,8 +9,8 @@ Desenvolvedor Full Stack, construo sites e aplicações web utilizando **Angular
 
 ## Projetos
 
-<a href="https://leogibertoni.github.io/primeiro-projeto/index"><img src="assets/cards/projeto1.png" width="49%" alt="RoadMap HTML: primeiro projeto do RoadMap, feito com HTML5 e CSS."></a>
-<a href="https://leogibertoni.github.io/segundo_projeto/index.html"><img src="assets/cards/projeto2.png" width="49%" alt="RoadMap JS: segundo projeto do RoadMap, agora com JavaScript."></a>
+<a href="https://leogibertoni.github.io/primeiro-projeto/index"><img src="assets/cards/projeto1.svg" width="49%" alt="RoadMap HTML: primeiro projeto do RoadMap, feito com HTML5 e CSS."></a>
+<a href="https://leogibertoni.github.io/segundo_projeto/index.html"><img src="assets/cards/projeto2.svg" width="49%" alt="RoadMap JS: segundo projeto do RoadMap, agora com JavaScript."></a>
 
 ## Stack
 
