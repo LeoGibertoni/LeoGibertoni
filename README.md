@@ -14,7 +14,7 @@ Desenvolvedor Full Stack, construo sites e aplicações web utilizando **Angular
 
 ## Stack
 
-![Stack](https://skillicons.dev/icons?i=angular,react,cs,dotnet,js,ts,html,css,git,github&theme=dark&perline=10)
+![Stack](https://skillicons.dev/icons?i=angular,react,cs,dotnet,js,ts,html,css,git,github,vscode,visualstudio&theme=dark&perline=12)
 
 ## Contato
 
