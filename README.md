@@ -6,13 +6,11 @@ Portfólio: [github.com/LeoGibertoni](https://github.com/LeoGibertoni)
 
 ## Projetos
 
-## Client work
-
 <table>
   <tr>
     <td width="50%">
       <a href="https://leogibertoni.github.io/primeiro-projeto/index">
-        <img src="assets/Projeto 1.png" alt="Projeto 1">
+        <img src="assets/projeto1.jpg" alt="Projeto 1">
       </a>
       <h3>Nome do Site 1</h3>
       <p>Descrição curta: o que é o site e o que você fez nele.</p>
