@@ -6,5 +6,17 @@ Portfólio: [github.com/LeoGibertoni](https://github.com/LeoGibertoni)
 
 ## Projetos
 
-- [Projeto 1](https://leogibertoni.github.io/primeiro-projeto/): Primeiro projeto feito por mim com base no RoadMap só utiliando HTML
-- [Projeto 2](https://leogibertoni.github.io/segundo_projeto/index.html): Segundo projeto feito por mim com base no RoadMap agora utilizando javascript com HTML
+## Client work
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://leogibertoni.github.io/primeiro-projeto/index">
+        <img src="assets/Projeto 1.png" alt="Projeto 1">
+      </a>
+      <h3>Nome do Site 1</h3>
+      <p>Descrição curta: o que é o site e o que você fez nele.</p>
+      <sub>Angular · C# · SQL</sub>
+    </td>
+  </tr>
+</table>
